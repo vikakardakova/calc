@@ -1,0 +1,33 @@
+.main {
+    width: 404px;
+    height: 404px;
+    border: 1px solid rgb(17, 108, 182);
+    margin: 40px auto 0;
+    background-color: rgb(193, 224, 241);
+    box-shadow: 0 0 30px grey;
+    border-radius: 4px;
+
+}
+.main div {
+    width: 99px;
+    height: 99px;   
+    border: 1px solid rgb(17, 108, 182);
+    float: left;
+    text-align: center;
+}
+
+.result {
+    margin: 10px auto 0;
+    width: 404px;
+    height: 54px;
+    background-color: rgb(193, 224, 241);
+    border: 1px solid rgb(17, 108, 182);
+    text-align: center;
+}
+
+button {
+    color: rgb(17, 108, 182);
+    width: 99px;
+    height: 99px; 
+    background-color: rgb(193, 224, 241);
+}
